@@ -24,3 +24,4 @@ env/
 # Generated vector databases
 chroma_db/
 chroma_stress_db/
+benchmark_results/
